@@ -4,9 +4,9 @@ HTML5 Comic visualizer mobile App and authoring tool.
 Made for the 1st Betabeers Hackathon.
 
 Authors:
-Israel Gutiérrez ([gootyfer](http://twitter.com/gootyfer/))
-Víctor Hernández ([uve.hache](https://www.facebook.com/uve.hache)
-Juan Carlos Alonso ([l_h2o_l](http://twitter.com/l_h2o_l/))
+Israel Gutiérrez  "(gootyfer)":http://twitter.com/gootyfer/
+Víctor Hernández  "(uve.hache)":https://www.facebook.com/uve.hache
+Juan Carlos Alonso  "(l_h2o_l)":http://twitter.com/l_h2o_l/
 
 h2. Description
 
